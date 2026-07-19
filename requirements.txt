@@ -1,0 +1,5 @@
+Flask
+SpeechRecognition
+requests
+edge-tts
+gunicorn
